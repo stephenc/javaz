@@ -1,6 +1,6 @@
 {
   "name": "tk.javaz",
   "tagline": "We don't have a JSR",
-  "body": "### package tk.javaz\r\n\r\nSee also http://annotations.javaz.tk[tk.javaz.annotations]",
+  "body": "### package tk.javaz\r\n\r\nSee also [tk.javaz.annotations](http://annotations.javaz.tk)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
